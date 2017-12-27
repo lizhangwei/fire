@@ -1,5 +1,5 @@
 {
-  "name": "firebase",
+  "name": "testfirebase",
   "version": "1.0.0",
   "description": "firebase",
   "author": "lizw <lizw@tiup.us>",
@@ -11,6 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "firebase": "^4.8.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
